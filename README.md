@@ -54,4 +54,8 @@ This is a simple terminal-based Loan Application System developed in Python. It 
 
 ---
 
-[2025-05-29 21-12-14.zip](https://github.com/user-attachments/files/20509563/2025-05-29.21-12-14.zip)
+
+
+
+https://github.com/user-attachments/assets/ec1832cf-1373-494d-a3dd-e7d9cf10f137
+

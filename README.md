@@ -54,4 +54,3 @@ This is a simple terminal-based Loan Application System developed in Python. It 
 
 ---
 
-✅ Contributions and suggestions are welcome!
